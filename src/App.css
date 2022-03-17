@@ -23,6 +23,18 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.jhanker{
+  background-color: aliceblue;
+  border-radius: 20px;
+  border: 2px solid red;
+}
+
+.jalil{
+  background-color: rgb(126, 165, 199);
+  border-radius: 20px;
+  border: 2px solid red;
+}
+
 
 .App-link {
   color: #61dafb;
